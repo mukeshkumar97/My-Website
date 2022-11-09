@@ -1,0 +1,118 @@
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  margin: 0;
+  background-color: skyblue;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: 2rem;
+  text-align: left;
+}
+
+p {
+  font-family: "Ubuntu-Light";
+  line-height: 2rem;
+}
+
+ul {
+  padding: 0;
+  font-family: "Ubuntu-Light";
+  text-align: left;
+}
+
+.title-image
+{
+  width: 80%;
+  border-radius: 5rem;
+}
+
+/* Navigation Bar */
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+  color: #fff;
+}
+
+/* Download Button */
+.download-button {
+  margin: 5% 3% 3% 0;
+}
+
+/* Title */
+
+.container-fluid {
+  padding: 3% 12% 7%;
+  text-align: left;
+}
+
+.big-heading {
+    text-align: left;
+}
+
+/* Technical Skills */
+
+.white-section {
+  background-color: #fff;
+  border: 0;
+  padding: 3% 12%;
+}
+
+.Skills {
+  text-align: left;
+}
+
+.row {
+  margin: 0;
+}
+
+.coding-image {
+  width: 80%;
+  height: 100%;
+  border-radius: 100%;
+  text-align: left;
+  filter: opacity(70%);
+}
+
+/* Achievements */
+
+.Achievements-Section {
+  padding: 6% 12% 3%;
+}
+
+.achievements {
+  padding: 4.5%;
+}
+
+.icon {
+  color: darkpurple;
+  margin-bottom: 1rem;
+  text-align: left;
+}
+
+.icon:hover {
+  color: darkblue;
+}
+
+/* Footer */
+
+.footer-text {
+  padding: 4%;
+}
+
+.footer-icon {
+  margin: 20px 10px;
+}
