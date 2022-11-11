@@ -94,7 +94,7 @@ ul {
 }
 
 .achievements {
-  padding: 4.5%;
+  padding: 3.5%;
 }
 
 .icon {
@@ -115,4 +115,19 @@ ul {
 
 .footer-icon {
   margin: 20px 10px;
+}
+
+@media (max-width: 991px)
+{
+
+  body {
+    text-align: center;
+  }
+
+  .title-image {
+    width: 60%;
+    position: static;
+    transform: rotate(0);
+    margin-bottom: 4rem;
+  }
 }
